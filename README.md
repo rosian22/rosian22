@@ -15,6 +15,7 @@
 
 **Personal / open source**
 
+- **[MeshChat](https://github.com/rosian22/MeshChat)** — off-grid, end-to-end encrypted chat over a Bluetooth + local-network mesh: ECDH + AES-GCM encryption, multi-hop relay routing, mDNS discovery. .NET MAUI · C#.
 - **[TCG Ranking Tracker](https://github.com/rosian22/TCGRankingTracker)** — ranking & statistics tracker for the One Piece trading card game. Next.js · TypeScript.
 - **[IT School live demos](https://github.com/rosian22/IT-SCHOOL-LIVE-DEMO)** — teaching materials from my front-end courses (JavaScript, React, HTML/CSS).
 
