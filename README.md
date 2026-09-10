@@ -5,6 +5,7 @@
 - 🔭 **Currently:** independent contractor — building a factory-flow management platform for a German industrial manufacturer: .NET 8 microservices, Kubernetes/Helm, Azure Service Bus, OpenTelemetry
 - 🧑‍🏫 **On the side:** trained career-changers in JavaScript & React at IT School
 - 🌱 **Now exploring:** contributing to the .NET open-source ecosystem
+- 🌐 **Portfolio:** [rosian22.github.io](https://rosian22.github.io)
 - 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/rosian-mihai-40859b172/)
 
 ### 🛠️ Stack
